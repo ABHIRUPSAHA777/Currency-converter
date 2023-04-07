@@ -7,7 +7,7 @@ package Currency_Converter;
 
 /**
  *
- * @author vikash
+ * @author Abhirup
  */
 public class CurrencyConverter extends javax.swing.JFrame {
 double US_Dollar = 1.31;
